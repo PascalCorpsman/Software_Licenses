@@ -1,0 +1,13 @@
+This is the file COPYING.Postcardware. All files contains headers showing 
+the appropriate license. See there if this modification can be applied.
+
+These files are distributed under the postcardware License:
+
+To fullfill the license you have to send me a postcard from the town / area you
+are living in, naming the software or component that you use.
+
+
+My address:
+             Uwe Schächterle
+             Buhlstraße 85
+             71384 Weinstadt - Germany

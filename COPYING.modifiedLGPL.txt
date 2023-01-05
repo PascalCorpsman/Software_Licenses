@@ -1,7 +1,5 @@
-This is the file COPYING.modifiedLGPL, it applies to several units in the
-Lazarus sources distributed by members of the Lazarus Development Team.
-All files contains headers showing the appropriate license. See there if this
-modification can be applied.
+This is the file COPYING.modifiedLGPL. All files contains headers showing 
+the appropriate license. See there if this modification can be applied.
 
 These files are distributed under the Library GNU General Public License
 (see the file COPYING.LGPL) with the following modification:
